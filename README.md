@@ -1,6 +1,6 @@
 # Do you want to build a flowsnake?
 
-![flowsnake.png](Gosper's flowsnake curve)
+![Gosper's flowsnake curve](flowsnake.png)
 
 If you asked me to pick my favourite fractal, it wouldn't even be close: it's this one. Mandelbrot called it the Peano-Gosper curve, 
 but I much prefer its less formal name: the flowsnake.
